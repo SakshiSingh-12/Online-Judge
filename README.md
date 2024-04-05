@@ -28,8 +28,7 @@ The project is a problem-solving platform where users can choose problems from a
 
 # Database Schema
 
-![drawSQL-online-judge-export-2024-02-14]()(https://github.com/SakshiSingh-12/Online-Judge/assets/139615391/79048ff2-07b4-4e33-9080-7aa8db827e04)
-
+![image](https://github.com/SakshiSingh-12/Online-Judge/assets/139615391/c04fa8ab-09f5-420d-9e2e-3dc9a77711a7)
 
 # ER Diagram
 
