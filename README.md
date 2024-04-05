@@ -12,19 +12,19 @@ The project is a problem-solving platform where users can choose problems from a
 
 # Home Page
 
-![Home Page]()
+![Home Page](home_page.png)
 
 # Registration Page
 
-![Registration Page]()
+![Registration Page](register_page.png)
 
 # Create Problem Page
 
-![Create Problem Page]()
+![Create Problem Page](create_problem.png)
 
 # Problem Solve Page
 
-![Problem Solve]()
+![Problem Solve](problem_solve.png)
 
 # Database Schema
 
